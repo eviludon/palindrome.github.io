@@ -109,3 +109,7 @@ img
    margin: auto;
 }
 
+#text-input::placeholder {
+    color: yellow;
+	opacity: 1;
+}
